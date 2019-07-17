@@ -155,3 +155,11 @@ body {
         width: 42rem;
     }
 }
+
+.profile-picture img {
+    border-radius: 50%;
+    margin-top: 0;
+    margin-bottom: 20px;
+    height: 130px;
+    width: 120px;
+}
